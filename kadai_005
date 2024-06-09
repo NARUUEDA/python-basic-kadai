@@ -1,0 +1,5 @@
+upper=10
+lower=20
+hight=5
+daikei_area=(upper+lower)*hight/2
+print(f"{daikei_area}㎡")
